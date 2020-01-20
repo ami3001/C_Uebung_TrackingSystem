@@ -11,7 +11,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        //Kommentar Pilger
+        //Ende
         final ListView trackinglist = (ListView)findViewById(R.id.listView);
 
         
